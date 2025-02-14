@@ -1,6 +1,6 @@
 - 🦁 Hi, I’m @AlanRT0814
 - ⭐️ Working to make the World MORE FUN! UwU
-- ⌨️ I’m currently learning Python Programming
+- ⌨️ I’m currently learning Node.js and Java
 - ♌︎ How to reach me: Discord alan_lain
 
 <!---
